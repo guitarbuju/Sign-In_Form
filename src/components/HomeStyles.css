@@ -1,0 +1,29 @@
+
+.wrapper{
+    margin-top: 10vh;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:1px solid black;
+    padding: 2vh;
+}
+h1 {
+    font-size: 40px;
+    color: #3551f1;
+    margin-bottom: 30px;
+  }
+.butongroup{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:1vh;
+    border:1px solid black;
+
+    width:40vh;  
+    padding: 2vh;
+
+}
+  
+  
