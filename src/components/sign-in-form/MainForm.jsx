@@ -99,7 +99,7 @@ const Register=(e)=>{
      <div className= {styles.buttons}>
           
           <button id='signin' className="btn btn-warning" onClick={(e)=>{Register(e)}}>Sign In</button>
-          <p type= 'submit' classname='signin' >
+          <p type= 'submit' className='signin' >
           <Link  to="/login">
             Already a member? please Log in
           </Link>
